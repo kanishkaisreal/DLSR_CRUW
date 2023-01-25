@@ -8,18 +8,6 @@ RADAR_hr-lr-Sim* - For simulating lr-hr pair of radar images (which are used for
 RADAR_SR_* - DLSR model design and training (DLSR Stage implementation)
 
 
-Codes that are not needed
-CRUW_Pascal_VOC_Preparation - Dataset preparation for training the SSD model in the pascalVOC format
-CRUW_Yolo_format_preparation - Dataset preparation for training the SSD model in the YOLO format
-Image Super Resolution - Transfer learning of radar SR from Image SR
-Model_Maker_* - For the effecientnet object detection model
-pascal_to_csv - To convert from pascalVOC to csv format
-SR_through_thresholding - Lame way for creating RADAR-SR images by passing through a threshold
-SSD_format_images - Pre-processing of images for feeding them into SSD model
-
-
-
-
 
 
 
